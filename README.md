@@ -179,9 +179,7 @@ The design choices (lightweight model, class-imbalance handling, screening-safe 
 
 ## 👤 Author
 
-**Arun** — MBBS Physician | AI & Data Science in Healthcare  
-Clinical Analytics & Validation Specialist, MetFlux Research  
-PGDM — AI & Data Science in Healthcare, IIHMR Bangalore
+**Dr Arun Kumar** 
 
 ---
 
